@@ -3,6 +3,8 @@ permalink: /about/
 title: "關於"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+### 關於網站 ###
+本網站始建於在二零二二年三月十五日，以軟件工程師的角度出發，透過輕鬆、簡單的模式，分享筆者的故事。
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+### 關於筆者 ###
+筆者在二零二一年七月於**香港城市大學**畢業，主修**電子計算機及數據工程學**，現職**軟件工程師**，主要從事**全端網絡應用程式開發**。
