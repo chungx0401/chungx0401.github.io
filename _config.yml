@@ -55,7 +55,7 @@ plugins:
 author:
   name   : "聰聰"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "軟件工程師"
+  bio    : "現職全端開發者"
   location: "Hong Kong"
   links:
     #- label: "Website"
