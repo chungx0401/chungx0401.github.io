@@ -9,7 +9,7 @@ tags:
 ---
 ## 前言 ##
 
-前些天裹，在工作完成後，筆者在使用git時不小心hard reset了，丟失了commit，最後用git-reflog花了好一番功夫才把commit恢復，特以此文記錄解決方法和分享相關經驗。
+前些天裏，在工作完成後，筆者在使用git時不小心hard reset了，丟失了commit，最後用git-reflog花了好一番功夫才把commit恢復，特以此文記錄解決方法和分享相關經驗。
 
 ## 背景 ##
 在使用git時，筆者透過```git push```將commit上傳後遇到了以下錯誤。
