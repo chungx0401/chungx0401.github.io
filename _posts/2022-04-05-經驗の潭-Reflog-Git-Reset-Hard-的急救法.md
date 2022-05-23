@@ -2,7 +2,7 @@
 title: "「經驗の潭」 Reflog﹕Git Reset Hard 的急救法！"
 date:  "2022-04-05T00:00:00+00:00"
 categories:
-  - blog
+  - 技術日誌
 tags:
   - git
   - 經驗の潭
