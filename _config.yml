@@ -49,7 +49,7 @@ author:
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/mmistakes"
 paginate: 5
-paginate_path: /recent/page:num/
+#paginate_path: /recent/page:num/
 
 category_archive:
   type: jekyll-archives
