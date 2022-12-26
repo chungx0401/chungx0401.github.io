@@ -20,8 +20,8 @@
 
 minimal_mistakes_skin: "default"
 locale: zh-HK
-title: 聰聰の部屋
-# subtitle: 
+title: 聰聰的網誌
+# subtitle:
 # description:
 url: "https://chungx0401.github.io"
 # baseurl: "" # the subpath of your site, e.g. /blog
@@ -98,7 +98,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
 
 defaults:
   # _posts
